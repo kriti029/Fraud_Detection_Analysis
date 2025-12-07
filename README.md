@@ -77,4 +77,8 @@ By completing this project, you will learn:
 
 ---
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+
 

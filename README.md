@@ -1,12 +1,10 @@
 📊 Fraud Detection Analysis
+
 🚀 Project Overview
 
-Project Name: Fraud Detection Analysis
-Description:
-data analysis project demonstrating data cleaning, exploration, and visualization using Python and Power BI.
 
 Objective:
- "Analyze transaction data to identify patterns and potential fraud cases."
+ "To Analyze transaction data to identify patterns and potential fraud cases."
 
 Dataset 
 
